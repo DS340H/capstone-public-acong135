@@ -27,7 +27,7 @@ Manually labeled subset of creators used for evaluation
 `user_business_three_methods.csv / user_business_four_methods.csv`
 Final prediction outputs from the modeling pipeline
 
-All usernames are treated as identifiers only and are not manually inspected for reproduction. To protect the privacy of
+All usernames are treated as identifiers only and are not manually inspected for reproduction. To protect the privacy of #SAHM content creators, direct identifiers such as usernames were removed and replaced with anonymized IDs.
 
 ## How to Run the Code
 
@@ -42,7 +42,6 @@ All usernames are treated as identifiers only and are not manually inspected for
 3. All file paths are relative to the project root.
 
 4. Final outputs are written to CSV files in the data/ directory.
-
 
 ## Notes and Limitations
 - The labeled dataset is intentionally small and used only for method comparison, not population-level inference.
